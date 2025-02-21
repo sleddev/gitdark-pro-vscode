@@ -1,0 +1,7 @@
+build/
+node_modules/
+.gitignore
+.git/
+.vscode/
+mise.toml
+package-lock.json
