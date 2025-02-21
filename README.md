@@ -1,6 +1,6 @@
 # GitDark Pro VSCode Theme
 
-This theme is a mashup of the syntax highlighting of [One Dark Pro](https://github.com/one-dark/vscode-one-dark-pro) and the UI colors of the [GitHub Dark](https://github.com/primer/github-vscode-theme) red/green colorblind theme.
+This theme is a mashup of the syntax highlighting of [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) and the UI colors of the [GitHub Dark](https://github.com/primer/github-vscode-theme) red/green colorblind theme.
 
 ## Install
 
@@ -14,5 +14,5 @@ To override this (or any other) theme in your personal config file, please follo
 
 ## Credits
 
-- [One Dark Pro](https://github.com/one-dark/vscode-one-dark-pro)
+- [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
 - [GitHub VSCode Theme](https://github.com/primer/github-vscode-theme)
